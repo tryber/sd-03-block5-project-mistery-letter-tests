@@ -1,0 +1,19 @@
+{
+  "Deve haver um `input` com o `id=\"carta-texto\"` onde o usuário poderá digitar o conteúdo da carta": 40,
+  "Deve haver um parágrafo com o `id=\"carta-gerada\"` onde o usuário verá o resultado de sua carta misteriosa": 41,
+  "Deve haver um botão com `id=\"criar-carta\"` e ao clicar nesse botão, a carta misteriosa deve ser gerada": 42,
+  "Ao criar uma carta através do botão `id=\"criar-carta\"`, o `input` com `id=\"carta-texto\"` deve permanecer com o texto digitado": 43,
+  "Crie a classe `newspaper`": 44,
+  "Crie a classe `magazine1`": 45,
+  "Crie a classe `magazine2`": 46,
+  "Crie a classe `medium`": 47,
+  "Crie a classe `big`": 48,
+  "Crie a classe `reallybig`": 49,
+  "Crie a classe `rotateleft`": 50,
+  "Crie a classe `rotateright`": 51,
+  "Crie a classe `skewleft`": 52,
+  "Crie a classe `skewright`": 53,
+  "Adicione as classes de forma aleatória afim de estilizar as palavras": 54,
+  "Com uma carta misteriosa gerada, adicione a possibilidade de alterar o estilo de uma palavra específica ao clicar nela": 55,
+  "Deve haver um parágrafo com o `id=\"carta-contador\"` onde existirá um contador de palavras": 56
+}
